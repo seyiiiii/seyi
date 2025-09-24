@@ -1,0 +1,29 @@
+body{
+    background-color: #268C51;
+}
+h1{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.arena{
+    color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.blanco{
+    color: white;
+    font-family:serif;
+    font-style: oblique;
+
+}
+.naranja{
+    color: orange;
+    font-family: monospace;
+}
+.amarillo{
+    color: #f6a700;
+    font-family: serif;
+}
+.rojo{
+    color: red;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
