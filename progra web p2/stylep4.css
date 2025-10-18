@@ -1,29 +1,55 @@
 body{
-    background-color: #268C51;
-}
-h1{
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
-}
-.arena{
-    color: bisque;
-    font-family: Arial, Helvetica, sans-serif;
-}
-.blanco{
-    color: white;
-    font-family:serif;
-    font-style: oblique;
+    background-color: rgb(71, 148, 71);
+    font-family: sans-serif;
 
+.blanco {
+  color: rgb(255, 255, 255);
+  font-family:cursive;
+  font-style: oblique;
+  font-size: 10px;
 }
-.naranja{
-    color: orange;
-    font-family: monospace;
+
+.amarillo {
+  color:rgb(211, 200, 50);
+  font-size: 17px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.amarillo{
-    color: #f6a700;
-    font-family: serif;
+
+.naranja {
+  color: rgb(209, 150, 23);
+  font-size: 16px;
+  font-family: 'Arial', sans-serif;
 }
-.rojo{
-    color: red;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+.blanco {
+  color:rgb(255, 255, 255);
+  font-family:cursive;
+  font-style: oblique;
+  font-size: 10px;
+}
+
+.naranja {
+  color:rgb(209, 150, 23);
+  font-size: 19px;
+  font-family: 'Arial', sans-serif;
+}
+
+.rojo {
+  color: rgb(226, 16, 16);
+  font-size: 16px;
+  font-family: 'Lucida Console', monospace;
+}
+
+.amarillo {
+  color:rgb(211, 200, 50);
+  font-size: 16px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.rojo {
+  color: rgb(226, 16, 16);
+  font-size: 16px;
+  font-family: 'Calibri', sans-serif;
+}
+
 }
